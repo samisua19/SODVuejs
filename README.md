@@ -1,2 +1,0 @@
-# SODVuejs
-Created with CodeSandbox
